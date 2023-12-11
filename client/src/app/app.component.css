@@ -1,0 +1,16 @@
+nav {
+	margin-bottom: 20px;
+}
+
+.nav-bg {
+	background-color: #1a1e24;
+}
+
+.navbar-brand {
+	color: #865DFF;
+	font-weight: bold;
+}
+
+.navbar-brand:hover {
+	color: #84a18f;
+}

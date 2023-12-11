@@ -1,0 +1,15 @@
+.carousel {
+	width: 400px;
+}
+
+app-artist {
+	vertical-align: middle;
+}
+
+.carousel-control-prev, .carousel-control-next {
+	background-color: rgba(0, 0, 0, 0.199);
+}
+
+.carousel-control-prev:hover, .carousel-control-next:hover {
+	background-color: rgba(0, 0, 0, 0.301);
+}

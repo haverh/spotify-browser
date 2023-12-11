@@ -1,0 +1,32 @@
+input, select {
+	background-color: #3f434b;
+	color: #836ace;
+	font-size: 1.1em;
+}
+
+input {
+	margin: 10px;
+	padding: 0 1%;
+	border-radius: 10px;
+	/* outline-style: none; */
+	border: 1px white;
+}
+
+input:focus{
+    outline: none;
+}
+
+select {
+	margin: 10px;
+	/* appearance: none; */
+	/* background-color: #343a40; */
+	/* background-color: #3f434b; */
+}
+
+select:focus {
+	outline: none;
+}
+
+button {
+	font-size: 1.1em;
+}

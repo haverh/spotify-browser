@@ -1,0 +1,30 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+	background-color: #252629;
+	color: #865DFF;
+	font-family: 'Lato', sans-serif;
+}
+
+h1 {
+	font-weight: 900;
+}
+
+h2, h3 {
+	font-weight: 700;
+}
+
+.btn {
+	color: #865DFF;
+	/* background-color: #35393d; */
+	font-weight: bold;
+}
+
+.btn:hover {
+	color: #9b8cc7;
+	background-color: #35393d;
+}
+
+a {
+	color: var(--bs-orange);
+}
